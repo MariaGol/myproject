@@ -1,0 +1,46 @@
+.red {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+.greenyellow {
+    background-color: greenyellow;
+}
+
+.purplebox {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(223, 115, 255);
+}
+
+p {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .container {
+    background-color: #FF8630;
+    padding: 55px 40px;
+  }
+  .quote__text-letter {
+    float: left; /* Обтекание символа текстом справа */
+    margin-right: 7px; /* Отступ справа */
+    color: #ed6742; /* Цвет символа */
+    font-family: "Roboto Slab", serif; /* Шрифт с засечками */
+    font-size: 52px; /* Размер шрифта */
+    line-height: 52px; /* Высота строки */
+  }
+  
+  .quote__author {
+    margin-top: 10px;
+    padding: 10px 0;
+    border-top: 1px solid #ed6742; /* декоративная граница */
+    font-style: italic;
+    font-size: 14px;
+    font-weight: 300;
+  }
+    

@@ -1,0 +1,30 @@
+.yellowbox {
+    background-color: rgb(244, 226, 93);
+    text-align:  center;
+    padding: 10px;
+}
+
+.whitebox {
+    background-color: rgb(246, 244, 232);
+    padding: 10px;
+}
+
+.bluebox {
+    background-color: rgb(5, 50, 231);
+    padding: 10px;
+}
+
+.blackbox {
+    background-color: rgba(0, 0, 0, 0.653);
+    padding: 10px;
+}
+h3 { color: white}
+h4 { color: white}
+
+h1 {
+    font-size: 8vmax;
+    background-color: #2AA5A0;
+    background-image: linear-gradient(#E3535D, #2AA5A0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }

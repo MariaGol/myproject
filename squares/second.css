@@ -1,0 +1,38 @@
+table {
+    width: 600px;
+    height: 200px; 
+    background: rgb(255, 255, 255); 
+    color: rgb(255, 255, 255);
+    border-spacing: 10px; 
+   }
+
+th {
+    width: 200px;
+    height: 200px; 
+    padding: 5px;
+    text-align: center;
+   }
+
+   td {
+    width: 200px;
+    height: 200px; 
+    padding: 5px;
+    text-align: center;
+   }
+
+.number1 {background: rgb(144, 250, 38)}
+.number2 {background: rgb(147, 224, 151);}
+.number3 {background:rgb(231, 228, 103)}
+.number4 {background: rgb(240, 60, 23);}
+.number5 {background:rgb(255, 136, 0)}
+.number6 {background: rgb(232, 185, 29);}
+.number7 {background:rgb(255, 0, 191)}
+.number8 {background: rgb(219, 138, 244);}
+.number9 {background: rgb(123, 193, 241);}
+  
+td:hover{
+    opacity:0;
+    animation:hidden 3s;}
+th:hover{
+    opacity:0;
+    animation:hidden 3s;}
