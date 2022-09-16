@@ -3,15 +3,30 @@
     height: 400px;
 }
 
+.bluebox img {
+    width: 562,5px;
+    height: 819px;
+}
+
 .yellowbox {
     background-color: rgb(244, 226, 93);
     text-align: center;
     padding: 10px;
 }
 
+.yellowbox img {
+    width: 600px;
+    height: 600px;
+}
+
 .whitebox {
     background-color: rgb(246, 244, 232);
     padding: 10px;
+}
+
+.whitebox img {
+    width: 562,5px;
+    height: 743,5px;
 }
 
 .bluebox {
@@ -23,6 +38,7 @@
     background-color: rgba(0, 0, 0, 0.653);
     padding: 10px;
 }
+
 h3, h4 { color: white}
 
 h1 {
@@ -31,4 +47,4 @@ h1 {
     background-image: linear-gradient(#E3535D, #2AA5A0);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-  }
+}
