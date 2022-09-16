@@ -4,21 +4,21 @@ table {
     background: rgb(255, 255, 255); 
     color: rgb(255, 255, 255);
     border-spacing: 10px; 
-   }
+}
 
 th {
     width: 200px;
     height: 200px; 
     padding: 5px;
     text-align: center;
-   }
+}
 
-   td {
+td {
     width: 200px;
     height: 200px; 
     padding: 5px;
     text-align: center;
-   }
+}
 
 .number1 {background: rgb(144, 250, 38)}
 .number2 {background: rgb(147, 224, 151);}
@@ -32,7 +32,10 @@ th {
   
 td:hover{
     opacity:0;
-    animation:hidden 3s;}
+    animation:hidden 3s;
+}
+
 th:hover{
     opacity:0;
-    animation:hidden 3s;}
+    animation:hidden 3s;
+}
